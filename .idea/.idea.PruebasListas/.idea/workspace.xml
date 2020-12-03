@@ -4,14 +4,20 @@
     <projectFile>PruebasListas/PruebasListas.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86911ce4-bb0a-4cc7-a968-2c3d43c2b497" name="Default Changelist" comment="" />
+    <list default="true" id="86911ce4-bb0a-4cc7-a968-2c3d43c2b497" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PruebasListas/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PruebasListas/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PruebasListas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PruebasListas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PruebasListas/Lista.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PruebasListas/Lista.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PruebasListas/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PruebasListas/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PruebasListas/PruebasListas.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PruebasListas/PruebasListas.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Tests2/Tests.cs" root0="SKIP_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -19,21 +25,24 @@
         <option value="$PROJECT_DIR$/TestsLista/Class1.cs" />
         <option value="$PROJECT_DIR$/Tests2/Tests.cs" />
         <option value="$PROJECT_DIR$/TestsLista/TestsBasicosLista.cs" />
+        <option value="$PROJECT_DIR$/PruebasListas/Program.cs" />
         <option value="$PROJECT_DIR$/PruebasListas/Lista.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1jEJ6DnU774V2RkyQ2irGkKXMq7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.PruebasListas">
+  <component name="RunManager">
     <configuration name="PruebasListas" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -62,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603363147087</updated>
       <workItem from="1603363202241" duration="4928000" />
+      <workItem from="1606995769585" duration="4601000" />
     </task>
     <servers />
   </component>
@@ -101,12 +111,28 @@
       <select />
     </coverage-tree-state>
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="981" height="179" key="GridCell.Tab.0.bottom" timestamp="1607000001263">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.bottom/1024.1.1024.728/0.0.1024.728@0.0.1024.728" timestamp="1607000001263" />
+    <state width="981" height="179" key="GridCell.Tab.0.center" timestamp="1607000001263">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.center/1024.1.1024.728/0.0.1024.728@0.0.1024.728" timestamp="1607000001263" />
+    <state width="981" height="179" key="GridCell.Tab.0.left" timestamp="1607000001263">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.left/1024.1.1024.728/0.0.1024.728@0.0.1024.728" timestamp="1607000001263" />
+    <state width="981" height="179" key="GridCell.Tab.0.right" timestamp="1607000001263">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="179" key="GridCell.Tab.0.right/1024.1.1024.728/0.0.1024.728@0.0.1024.728" timestamp="1607000001263" />
     <state x="104" y="95" key="Rider.ProjectTemplateDialog.Size" timestamp="1603366956285">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
